@@ -1,0 +1,38 @@
+2023-01-04 20:09:10,538  INFO [main] SauceDemoMaven:43 - Browser is opened
+2023-01-04 20:09:10,670  INFO [main] SauceDemoMaven:46 - Window is maximized
+2023-01-04 20:09:11,547  INFO [main] SauceDemoMaven:52 - URL is opened
+2023-01-04 20:09:11,834  INFO [main] SauceDemoMaven:59 - Username is entered
+2023-01-04 20:09:11,906  INFO [main] SauceDemoMaven:62 - Password is entered
+2023-01-04 20:09:11,998  INFO [main] SauceDemoMaven:65 - Clicked on login button
+2023-01-04 20:09:12,192  INFO [main] SauceDemoMaven:70 - Entered on home page
+2023-01-04 20:09:12,383  INFO [main] SauceDemoMaven:20 - Test Case is passed
+2023-01-04 20:09:28,677  INFO [main] SauceDemoMaven:77 - Browser is closed
+2023-01-04 20:09:29,288  INFO [main] SauceDemoMaven:43 - Browser is opened
+2023-01-04 20:09:29,415  INFO [main] SauceDemoMaven:46 - Window is maximized
+2023-01-04 20:09:29,854  INFO [main] SauceDemoMaven:52 - URL is opened
+2023-01-04 20:09:30,088  INFO [main] SauceDemoMaven:59 - Username is entered
+2023-01-04 20:09:30,159  INFO [main] SauceDemoMaven:62 - Password is entered
+2023-01-04 20:09:30,260  INFO [main] SauceDemoMaven:65 - Clicked on login button
+2023-01-04 20:09:30,445  INFO [main] SauceDemoMaven:70 - Entered on home page
+2023-01-04 20:09:30,664  INFO [main] SauceDemoMaven:23 - Clicked on bagProduct
+2023-01-04 20:09:30,732  INFO [main] SauceDemoMaven:36 - Cart Page Test Case passed
+2023-01-04 20:09:30,839  INFO [main] SauceDemoMaven:77 - Browser is closed
+2023-01-04 20:09:31,495  INFO [main] SauceDemoMaven:43 - Browser is opened
+2023-01-04 20:09:31,630  INFO [main] SauceDemoMaven:46 - Window is maximized
+2023-01-04 20:09:31,917  INFO [main] SauceDemoMaven:52 - URL is opened
+2023-01-04 20:09:32,205  INFO [main] SauceDemoMaven:59 - Username is entered
+2023-01-04 20:09:32,263  INFO [main] SauceDemoMaven:62 - Password is entered
+2023-01-04 20:09:32,342  INFO [main] SauceDemoMaven:65 - Clicked on login button
+2023-01-04 20:09:32,668  INFO [main] SauceDemoMaven:70 - Entered on home page
+2023-01-04 20:09:32,908  INFO [main] SauceDemoMaven:18 - Clicked on bagProduct
+2023-01-04 20:09:32,908  INFO [main] SauceDemoMaven:20 - Apply the validation
+2023-01-04 20:09:32,932  INFO [main] SauceDemoMaven:26 - Bag Product Test case is passed
+2023-01-04 20:09:49,211  INFO [main] SauceDemoMaven:77 - Browser is closed
+2023-01-04 20:09:49,928  INFO [main] SauceDemoMaven:43 - Browser is opened
+2023-01-04 20:09:50,050  INFO [main] SauceDemoMaven:46 - Window is maximized
+2023-01-04 20:09:51,647  INFO [main] SauceDemoMaven:52 - URL is opened
+2023-01-04 20:09:51,899  INFO [main] SauceDemoMaven:59 - Username is entered
+2023-01-04 20:09:51,959  INFO [main] SauceDemoMaven:62 - Password is entered
+2023-01-04 20:09:52,034  INFO [main] SauceDemoMaven:65 - Clicked on login button
+2023-01-04 20:09:52,195  INFO [main] SauceDemoMaven:70 - Entered on home page
+2023-01-04 20:10:08,529  INFO [main] SauceDemoMaven:77 - Browser is closed
